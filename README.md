@@ -1,16 +1,16 @@
 <div>
   <h1 align='center'>
-    ichs
+    Cu3t0mAPI
   </h1>
 </div>
 <div>
   <p align='center'>
     <img src=https://img.shields.io/pypi/dm/Cu3t0mAPI?color=success&label=PyPi%20Downloads&style=flat-square>
-    <img src=https://img.shields.io/badge/Stable_Version-0.0.2-informational>
-    <img src=https://img.shields.io/badge/Development_Version-0.0.4-informational>
+    <img src=https://img.shields.io/badge/Stable_Version-1.7.1-informational>
+    <img src=https://img.shields.io/badge/Development_Version-1.8.4-informational>
   </p>
   <p align='center'>
-    A Python api wrapper.
+    A Python API wrapper.
   </p>
 </div>
 <br>

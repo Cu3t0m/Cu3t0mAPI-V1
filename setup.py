@@ -11,7 +11,7 @@ setuptools.setup(
     description="A Python Api Wrapper for the RandomAPI", # A short description here!
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Custom/ichs", # Link your package website here! (most commonly a GitHub repo)
+    url="https://github.com/Custom/Cu3t0mAPI", # Link your package website here! (most commonly a GitHub repo)
     packages=setuptools.find_packages(), # A list of all packages for Python to distribute!
     classifiers=[
         "Programming Language :: Python :: 3",
