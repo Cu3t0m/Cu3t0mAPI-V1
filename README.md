@@ -82,3 +82,7 @@ clearly
 Yes, it's obvious.
 
 ```
+
+# Links
+- [Pypi](https://pypi.org/project/Cu3t0mAPI/)
+- [Discord](https://discord.com)
